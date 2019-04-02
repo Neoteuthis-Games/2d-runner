@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floorbox
+  - COLLECTABLE
+  - fire
+  - Water
+  - Room
+  - Room1
+  - Room1(2)
+  - Room1(3)
+  - Room1(4)
+  - Room1(5)
+  - Room1(6)
+  - Room1(7)
+  - Room1(8)
+  - Room1(9)
+  - Room1(1)
+  - worldedge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
